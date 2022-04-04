@@ -3,7 +3,7 @@ This repo serves as the release branch for my personal game development project 
 
 Written in C# using Unity. Not current intended for mobile play.
 
-[Click here to play! (Will make sound!)](https://gphorvath.github.io/Dice-Game/).
+[Click here to play! (Will make sound!)](https://game-shenanigans.github.io/Dice-Game/).
 
 ## Objective
 Use the player dice (green outline) to eliminate all enemy dice (red outline).
